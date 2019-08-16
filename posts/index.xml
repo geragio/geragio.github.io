@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Giovanni Geraci</title>
+    <link>https://giovannigeraci.com/posts/</link>
+    <description>Recent content in Posts on Giovanni Geraci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://giovannigeraci.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://giovannigeraci.com/1/workinprogress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://giovannigeraci.com/1/workinprogress/</guid>
+      <description>work still in progress</description>
+    </item>
+    
+  </channel>
+</rss>

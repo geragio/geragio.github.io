@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giovanni Geraci on Giovanni Geraci</title>
+    <link>https://giovannigeraci.com/</link>
+    <description>Recent content in Giovanni Geraci on Giovanni Geraci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://giovannigeraci.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>https://giovannigeraci.com/about/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://giovannigeraci.com/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Giovanni Geraci and welcome to my personal blog&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m a System Engineer with a strong passion for Linux and automation solutions&lt;/p&gt;
+
+&lt;p&gt;Feel free to send me an &lt;a href=&#34;mailto:giovanni@giovannigeraci.com&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://giovannigeraci.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://giovannigeraci.com/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
