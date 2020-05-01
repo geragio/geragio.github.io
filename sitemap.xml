@@ -33,8 +33,10 @@
       <loc>https://giovannigeraci.com/1/workinprogress/</loc>
       
       
+      <changefreq>monthly</changefreq>
       
-      <priority>0</priority>
+      
+      <priority>0.5</priority>
       
       
     </url>
