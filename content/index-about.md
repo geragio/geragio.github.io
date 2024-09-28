@@ -1,0 +1,1 @@
+I'm a Tecnical Support Engineer at [Red Hat](https://www.redhat.com/it). I'm passionate about Linux and open source.
