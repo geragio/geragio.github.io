@@ -6,4 +6,4 @@ Welcome to the repository for my personal website! This project showcases my onl
 
 - Giovanni Geraci
 
-### Website: [https://giovannigeraci.com)
+### Website: [https://giovannigeraci.com]
