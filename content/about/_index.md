@@ -3,7 +3,7 @@ title: "About me"
 type: page
 ---
 
-Hi, I'm Giovanni Geraci and welcome to my website   
+Hi, I'm Giovanni Geraci and welcome to my website.
   
 I'm a Technical Support Engineer at [Red Hat](https://www.redhat.com/it) with a strong passion for Linux and Kubernetes.
 
