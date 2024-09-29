@@ -5,6 +5,6 @@
     {{ end }}
 
     {{ if .Site.Params.footer }}
-    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer | emojify }}</span>
     {{ end }}
 </footer>

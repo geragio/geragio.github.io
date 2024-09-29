@@ -7,7 +7,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-footer = "Giovanni Geraci"
+footer = "Giovanni Geraci :it:"
 
 description = "hi, i'm giovanni, welcome to my website :-)"
 avatarURL = "/images/avatar.jpeg"
