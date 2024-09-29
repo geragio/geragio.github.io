@@ -12,7 +12,7 @@ footer = "Giovanni Geraci"
 description = "hi, i'm giovanni, welcome to my website :-)"
 avatarURL = "/images/avatar.jpeg"
 AvatarAltText = "avatar"
-avatarSize = "size-xs"
+avatarSize = "size-m"
 ShowBackToTopButton = true
 
 socialIcons = [
