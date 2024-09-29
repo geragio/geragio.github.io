@@ -23,39 +23,21 @@ socialIcons = [
 ]
 
 [menu]
+
   [[menu.main]]
   
     identifier = "about"
-
     url = "/about/"
-    
-    # You can add extra information before the name (HTML format is supported), such as icons
     pre = ""
-
-    # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
-
-    # Display name
     name = "About"
+    weight = 1
 
-    # Weights are used to determine the ordering
-    weight = 2
-
-   [[menu.main]]
-  
-     identifier = "posts"
-
-     url = "/blog/"
-    
-     # You can add extra information before the name (HTML format is supported), such as icons
-     pre = ""
-
-     # You can add extra information after the name (HTML format is supported), such as icons
-     post = ""
-
-     # Display name
-     name = "Blog"
-
-     # Weights are used to determine the ordering
-     weight = 1
-
+#   [[menu.main]]
+#  
+#     identifier = "posts"
+#     url = "/blog/"
+#     pre = ""
+#     post = ""
+#     name = "Blog"
+#     weight = 2
