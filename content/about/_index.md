@@ -24,3 +24,7 @@ I've got some IT certifications; please consider taking a look at my achievement
 **Kubernetes**
 
 * **[Certified Kubernetes Administrator](https://www.youracclaim.com/badges/76d6cfaf-8f83-42a9-a487-0df9f29b9a9c/public_url)** (CKA)
+
+**Microsoft**
+
+* **[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/bf3a17da-d694-4abc-ab94-bf3c1102c75d?source=linked_in_profile)**
