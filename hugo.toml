@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [params]
 footer = "Giovanni Geraci :it:"
 
-description = "hi, i'm giovanni, welcome to my website :-)"
+description = "Hi, I'm Giovanni, welcome to my website :-)"
 avatarURL = "/images/avatar.webp"
 AvatarAltText = "avatar"
 avatarSize = "size-m"
@@ -31,13 +31,13 @@ socialIcons = [
     pre = ""
     post = ""
     name = "About"
-    weight = 1
+    weight = 2
 
-#   [[menu.main]]
-#  
-#     identifier = "posts"
-#     url = "/blog/"
-#     pre = ""
-#     post = ""
-#     name = "Blog"
-#     weight = 2
+  [[menu.main]]
+
+    identifier = "blog"
+    url = "/blog/"
+    pre = ""
+    post = ""
+    name = "Blog"
+    weight = 1
