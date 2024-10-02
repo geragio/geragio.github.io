@@ -5,6 +5,7 @@ defaultContentLanguage = 'en'
 theme = 'gokarna'
 enableEmoji = true
 enableRobotsTXT = true
+pluralizelisttitles = false
 
 [params]
 footer = "Giovanni Geraci :it:"
