@@ -8,4 +8,4 @@ Welcome to the repository for my personal website! This project showcases my onl
 
 ### Website: [giovannigeraci.com](https://giovannigeraci.com)
 
-### Built with [Hugo](https://gohugo.io/) and [GitHub Actions](https://github.com/features/actions) :rocket:
+#### Built with [Hugo](https://gohugo.io/) and [GitHub Actions](https://github.com/features/actions) :rocket:
